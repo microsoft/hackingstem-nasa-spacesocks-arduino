@@ -84,6 +84,8 @@ void SendDataToSerial() {
 
   // Send data out separated by a comma (kDelimiter)
   // Repeat next 2 lines of code for each variable sent:
+  Serial.print(kDelimiter); //first column reserved for commands
+
   Serial.print(toeReading);
   Serial.print(kDelimiter);
 
