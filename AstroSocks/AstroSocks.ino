@@ -1,5 +1,5 @@
 //===----------------__ Hacking STEM Astro Socks Arduino __------------===//
-// For use with the TODO:[add lesson title] lesson plan 
+// For use with the Astro Socks lesson plan 
 // available from Microsoft Education Workshop at 
 // http://aka.ms/hackingSTEM
 //
@@ -9,9 +9,9 @@
 // These values help us understand pressure points on the top part of the foot.
 //
 // Pins:
-// A0 Toe Sensor
-// A1 First Mid-foot Sensor
-// A2 Second Mid-foot Sensor
+// A0 Phalanges Sensor
+// A1 Metatarsals Sensor
+// A2 Tarsals Sensor
 // A3 Ankle Sensor
 //
 // This project uses an Arduino UNO microcontroller board, information at:
