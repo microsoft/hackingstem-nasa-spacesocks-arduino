@@ -1,6 +1,7 @@
 //===----------------__ Hacking STEM Astro Socks Arduino __------------===//
 // For use with the Astro Socks lesson plan available from Microsoft 
-// Education Workshop at http://aka.ms/hackingSTEM
+// Education Workshop at https://aka.ms/astrosocks
+// http://aka.ms/hackingSTEM
 //
 // Overview:
 // Project detects analog voltage levels which correspond to deformation 
